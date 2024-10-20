@@ -103,4 +103,4 @@ export const codeLanguageSubset = [
 
 export const _defaultMenuWidth = 260;
 export const _defaultDisplayChatSize = false;
-export const _defaultImageDetail: ImageDetail = 'auto';
+export const _defaultImageDetail: ImageDetail = 'high';
