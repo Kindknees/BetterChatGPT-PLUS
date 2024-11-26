@@ -138,6 +138,7 @@ src/store/migrate.ts
 src/store/store.ts
 src/types/chat.ts
 src/utils/import.ts
+src/constants/chat.ts change the default config
 ```
 
 ### Updating Models
