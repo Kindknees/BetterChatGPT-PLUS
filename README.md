@@ -132,13 +132,12 @@ src/components/Chat/ChatContent/ChatTitle.tsx
 src/components/Chat/ChatContent/Message/EditView.tsx
 src/components/ChatConfigMenu/ChatConfigMenu.tsx
 src/components/ConfigMenu/ConfigMenu.tsx
-src/constants/chat.ts
+src/constants/chat.ts    ->change the default configs
 src/store/config-slice.ts
 src/store/migrate.ts
 src/store/store.ts
 src/types/chat.ts
 src/utils/import.ts
-src/constants/chat.ts change the default config
 ```
 
 ### Updating Models
